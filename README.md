@@ -1,6 +1,6 @@
 # DSC2019 - 데이터에서 스토리 탐색하기
 ## 주가 등락률로 살펴보는 AI 취업전망
-[결과물 링크]: (https://www.notion.so/AI-f3b0f460c81348d7abfab265c31abce6, "결과물 보러가기")
+[결과물 링크](https://www.notion.so/AI-f3b0f460c81348d7abfab265c31abce6, "결과물 보러가기")
 
 ## Naver_주가분석.ipynb
 주가 등락률로 살펴보는 AI 취업전망을 주제로 분석하며 사용된 코드입니다.
